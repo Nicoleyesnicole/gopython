@@ -1,0 +1,2 @@
+# gopython
+Python memo
